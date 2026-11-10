@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" fill="none">
+  <rect width="512" height="512" rx="96" fill="#07090E"/>
+  <rect x="28" y="28" width="456" height="456" rx="76" stroke="#1E293B" stroke-width="4"/>
+  <!-- Oscilloscope Grid Lines -->
+  <line x1="64" y1="256" x2="448" y2="256" stroke="#1E293B" stroke-width="3" stroke-dasharray="8 8"/>
+  <line x1="256" y1="64" x2="256" y2="448" stroke="#1E293B" stroke-width="3" stroke-dasharray="8 8"/>
+  <!-- Guitar Audio DSP Waveform -->
+  <path d="M72 256 L128 256 L156 144 L192 368 L232 96 L272 416 L312 136 L348 344 L376 256 L440 256" stroke="#06B6D4" stroke-width="20" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Calibration Nodes -->
+  <circle cx="232" cy="96" r="14" fill="#F59E0B"/>
+  <circle cx="272" cy="416" r="14" fill="#06B6D4"/>
+</svg>

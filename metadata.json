@@ -1,0 +1,6 @@
+{
+  "name": "ToneCraft DSP — Real-Time Guitar Audio Engine",
+  "description": "Low-latency Web Audio API guitar DSP workstation and offline-ready PWA with raw instrument input routing, real-time telemetry, and GainNode bypass architecture.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
